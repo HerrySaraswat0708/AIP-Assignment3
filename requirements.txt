@@ -1,9 +1,7 @@
-cv2
+streamlit
 torch
 torchvision
+opencv-python
 numpy
-pandas
-os
-tqdm
-skimage
-matplotlib
+pillow
+scikit-image
