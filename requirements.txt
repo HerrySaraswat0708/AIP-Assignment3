@@ -1,4 +1,4 @@
-opencv
+cv2
 torch
 torchvision
 numpy
